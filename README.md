@@ -39,3 +39,9 @@ This project aims to develop an efficient file search system for the Windows ope
 
 ## Conclusion
 The project to develop an accelerated file search system in the Windows operating system represents an important step in improving file work performance. Implementing this system in the Rust programming language with the application of indexing and a trie will significantly speed up the search process and increase ease of use for users.
+
+## Feed back 
+
+__Performance Benchmarks:__ Consider including specific performance benchmarks and goals. How much faster do you aim to make file searches compared to the native Windows search? Setting clear benchmarks can help in evaluating the success of your project.
+
+__Cross-Platform Compatibility:__ Although the project targets the Windows OS, exploring the possibility of cross-platform functionality could increase the project's applicability.
